@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57C2B23F-B4D0-4C4D-B0C1-4CA417A59DFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VMFloatLabeled</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6F16A1FEABD3496107516C424B7C5D8DAD24555</key>
+		<string>https://github.com/varshylmobile/LocationManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>VMFloatLabeled/VMFloatLabeled.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6F16A1FEABD3496107516C424B7C5D8DAD24555</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/varshylmobile/LocationManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6F16A1FEABD3496107516C424B7C5D8DAD24555</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6F16A1FEABD3496107516C424B7C5D8DAD24555</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VMFloatLabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
